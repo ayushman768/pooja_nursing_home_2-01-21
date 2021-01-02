@@ -74,7 +74,7 @@
      <div class="footer_bottom">
 	 
 <div class="sidefix">
-        <a href="https://api.whatsapp.com/send?phone=7828807181&amp;text=Hi, I am visiting your website and I Want to Treatment by Pooja Nursing Home: www.rainbowhospitalbilaspur.in" target="_blank" class="social-icon whatsapp">
+        <a href="https://api.whatsapp.com/send?phone=917828807181&amp;text=Hi, I am visiting your website and I Want to Treatment by Pooja Nursing Home: www.rainbowhospitalbilaspur.in" target="_blank" class="social-icon whatsapp">
               <img src="images/PoojanursingHome_Whatsapp Number_Bilaspur_Chhattisgarh.png" alt="Pooja Nursing Home Whatsapp Number Bilaspur Chhattisgarh" class="whats-app">
 			</a>
 
