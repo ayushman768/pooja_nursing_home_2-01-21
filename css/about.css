@@ -1,0 +1,11 @@
+section {
+    height: 150px;
+    width: 100%;
+    background-image: url(..//images/backgrond_images/about_banner-1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+.My_Address>ul>li>a{
+	color:black!important;
+}
